@@ -2,7 +2,8 @@
 # Hi there 👋 I'm Isabelly
 
 🎓 **Petroleum Engineer** | 🐍 **Python Automation**  
-💼 Working with **Web Scraping** & **API Integrations**  
+💼 Working with **Web Scraping** & **API Integrations**  & Basically anything you trow at me
+(Learning some frontend, some security practices, and I like AWS - but please don't make me set up a server)
 🎓 Graduated from **University of São Paulo (USP)**
 
 ---
@@ -14,12 +15,12 @@
 
 > Sorry, everything's **private** – I automate in the shadows 🕵️‍♀️🐍  
 > I'm also hiding my messy regexes
+
 ---
 
 ## 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/isabelly-baldo-8aa527182?utm_source=share&utm_campaign=share_via&utm_content=profile)
-- 📬 Feel free to reach out for collaborations!
 
 ---
 
