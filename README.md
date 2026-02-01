@@ -1,10 +1,11 @@
 
 # Hi there 👋 I'm Isabelly
 
-🎓 **Petroleum Engineer** | 🐍 **Python Automation**  
+🎓 **Petroleum Engineer, Graduated from **University of São Paulo (USP)**| 🐍 **Python Automation**  
 💼 Working with **Web Scraping** & **API Integrations**  & Basically anything you trow at me
 (Learning some frontend, some security practices, and I like AWS - but please don't make me set up a server)
-🎓 Graduated from **University of São Paulo (USP)**
+
+Update: I had to set up servers.
 
 ---
 
