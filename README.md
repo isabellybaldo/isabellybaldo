@@ -1,37 +1,17 @@
-
-# Hi there 👋 I'm Isabelly
-
-🎓 **Petroleum Engineer, Graduated from **University of São Paulo (USP)**| 🐍 **Python Automation**  
-💼 Working with **Web Scraping** & **API Integrations**  & Basically anything you trow at me
-(Learning some frontend, some security practices, and I like AWS - but please don't make me set up a server)
-
-Update: I had to set up servers.
-
----
-
-## 📊 GitHub Stats
-
-![Isabelly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabellybaldo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellybaldo&layout=compact&theme=radical)
-
-> Sorry, everything's **private** – I automate in the shadows 🕵️‍♀️🐍  
-> I'm also hiding my messy regexes
-
----
-
-## 🌐 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/isabelly-baldo-8aa527182?utm_source=share&utm_campaign=share_via&utm_content=profile)
-
----
-
-## 😂 Favorite XKCDs
-
-[![Automation](https://imgs.xkcd.com/comics/automation.png)](https://xkcd.com/1319/)  
-*“Automation” – When you spend 6 hours writing a script to save 10 minutes.*
-
-[![Standards](https://imgs.xkcd.com/comics/standards.png)](https://xkcd.com/927/)  
-
-[![Tasks](https://imgs.xkcd.com/comics/tasks.png)](https://xkcd.com/1425/)  
-
-
+# Isabelly Baldo
+ 
+**Tech Manager @ Kateto** · São Paulo, Brazil
+ 
+I lead a small engineering team and still write code. Mostly Python, mostly on AWS, increasingly with an LLM somewhere in the loop.
+ 
+These days that means three CRMs that run a business end to end, integrations with the WhatsApp Business API and Brazilian courts that aren't allowed to quietly lose data, and a cloud bill with my name on it. Before Kateto I spent three years at BTG Pactual, automating insurance operations and keeping legacy crawlers alive long enough to replace them.
+ 
+`Python` · `SQL` · `React` · `Angular` · `AWS` · `Azure` · `LLMs & GenAI` · `Claude Code`
+ 
+### About the repos
+ 
+Most of what I build belongs to the companies I build it for, so this profile is quieter than my week is. Happy to talk architecture, trade-offs, and the things that broke — just ask.
+ 
+📫 [LinkedIn](https://www.linkedin.com/in/isabelly-baldo-8aa527182/)
+ 
+*Still think [xkcd 1319](https://xkcd.com/1319/) is a documentary.*
