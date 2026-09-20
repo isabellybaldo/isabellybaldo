@@ -2,6 +2,8 @@
  
 **Tech Manager @ Kateto** · São Paulo, Brazil
  
+🌐 [isabellybaldo.github.io](https://isabellybaldo.github.io) — the cute one.
+ 
 I lead a small engineering team and still write code. Mostly Python, mostly on AWS, increasingly with an LLM somewhere in the loop.
  
 These days that means three CRMs that run a business end to end, integrations with the WhatsApp Business API and Brazilian courts that aren't allowed to quietly lose data, and a cloud bill with my name on it. Before Kateto I spent three years at BTG Pactual, automating insurance operations and keeping legacy crawlers alive long enough to replace them.
