@@ -5,6 +5,8 @@
 🌐 [isabellybaldo.github.io](https://isabellybaldo.github.io) — the cute one.
 
 🛰️ [isoca-radar](https://radar.isoca.space) — a Polymarket arbitrage lab, frozen after it outgrew its server. The math still runs in your browser.
+
+🀄 [isoca-play](https://github.com/isabellybaldo/isoca-play) — mahjong and sudoku for one player on a phone, behind a password. Only the code is public.
  
 I lead a small engineering team and still write code. Mostly Python, mostly on AWS, increasingly with an LLM somewhere in the loop.
  
@@ -16,7 +18,7 @@ These days that means three CRMs that run a business end to end, integrations wi
  
 Most of what I build belongs to the companies I build it for, so this profile is quieter than my week is. Happy to talk architecture, trade-offs, and the things that broke — just ask.
 
-The exceptions: [isoca-radar's code](https://github.com/isabellybaldo/isoca-radar) and [isoca-infra](https://github.com/isabellybaldo/isoca-infra), the repo that runs it.
+The exceptions: [isoca-radar's code](https://github.com/isabellybaldo/isoca-radar), [isoca-infra](https://github.com/isabellybaldo/isoca-infra), the repo that runs it, and [isoca-play](https://github.com/isabellybaldo/isoca-play).
  
 📫 [LinkedIn](https://www.linkedin.com/in/isabelly-baldo-8aa527182/)
  
