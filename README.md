@@ -19,6 +19,8 @@ These days that means three CRMs that run a business end to end, integrations wi
 Most of what I build belongs to the companies I build it for, so this profile is quieter than my week is. Happy to talk architecture, trade-offs, and the things that broke — just ask.
 
 The exceptions: [isoca-radar's code](https://github.com/isabellybaldo/isoca-radar), [isoca-play](https://github.com/isabellybaldo/isoca-play) and [isoca-infra](https://github.com/isabellybaldo/isoca-infra), the repo that runs isoca-radar.
+
+I built those with Claude Code, Anthropic's AI coding agent, which wrote most of the code. I chose what to build, made the design calls and I'm responsible for what's there.
  
 📫 [LinkedIn](https://www.linkedin.com/in/isabelly-baldo-8aa527182/)
  
