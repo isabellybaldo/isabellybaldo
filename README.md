@@ -6,7 +6,8 @@
 
 🛰️ [isoca-radar](https://radar.isoca.space) — a Polymarket arbitrage lab, frozen after it outgrew its server. The math still runs in your browser.
 
-🀄 [isoca-play](https://github.com/isabellybaldo/isoca-play) — mahjong and sudoku for one player on a phone, behind a password. Only the code is public.
+🀄 [isoca-play](https://github.com/isabellybaldo/isoca-play) — mahjong and sudoku for one player on a phone, behind a password because I don't trust internet people. Only the code is public.
+(I also wanted to reduce my doom scrolling time)
  
 I lead a small engineering team and still write code. Mostly Python, mostly on AWS, increasingly with an LLM somewhere in the loop.
  
